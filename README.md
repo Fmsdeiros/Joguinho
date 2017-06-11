@@ -38,4 +38,15 @@ Também pode ses utilizar o makefile, basta digitar o seguinte comando:
 
 make 
 
+OBS:
+O código faz uso das bibliotecas para poder usar as funcoes: 
+	<stdlib.h>:
+		rand
+		system("cls")
+		system("pause")
+<time.h>
+		time
+
+	As classes filhas de Criatura: alado,besta e mago nao tem variaveis proprias dessas classes. Porem o sistema foi implementado de forma que magos batem usando seu dano magico que é absorvido pela resistencia mágica, alados e bestas atacam com poder fisico que é absorvido pela armadura. Quando um mago ataca uma besta, além do fato de que as bestas tem uma alta resistencia mágica comparada com outras classes, o mago tem tem menos chance de acertar um ataque em uma besta, do que teria se estivesse atacando um alado.
+
 Link para repositório do github: https://projetos.imd.ufrn.br/fmsdeiros/Joguinho/tree/master
