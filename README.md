@@ -1,3 +1,5 @@
+Executar usando um linux
+
 Implementção:
 
 Arquivos pertenecntes a implementação do programa:
