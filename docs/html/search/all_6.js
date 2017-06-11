@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['getacerto',['getAcerto',['../class_criatura.html#af11a9c7c25a099a89e994a501bc1d345',1,'Criatura']]],
+  ['getarmor',['getArmor',['../class_criatura.html#a66f76baa3338860560b4a3f00adf19d6',1,'Criatura']]],
+  ['getatacou',['getAtacou',['../class_criatura.html#ae82e86d2962ccf13a95769f685aaf653',1,'Criatura']]],
+  ['getcooldown',['getCooldown',['../class_criatura.html#a8164c15ba16886b86bf7ea46f6c52507',1,'Criatura']]],
+  ['getcooldown2',['getCooldown2',['../class_criatura.html#a7d016e09467f54216f198e6b99e5b764',1,'Criatura']]],
+  ['getdefendeu',['getDefendeu',['../class_criatura.html#a6534118fb4565bccf99b8d670155d734',1,'Criatura']]],
+  ['getforca',['getForca',['../class_criatura.html#a7099d28af6cc3f81e78531a141f2dc56',1,'Criatura']]],
+  ['gethabilidadeativa',['getHabilidadeAtiva',['../class_criatura.html#ae9efb3d19b942a8dbbc4de8bd275e1ed',1,'Criatura']]],
+  ['gethabilidadepassiva',['getHabilidadePassiva',['../class_criatura.html#a19628dd2efc110dcd2a30479505fac4c',1,'Criatura']]],
+  ['getmr',['getMr',['../class_criatura.html#af4b2479afbf10408e97c9c8d9bc53600',1,'Criatura']]],
+  ['getnome',['getNome',['../class_criatura.html#a511d81be92b09d36f22b54ff3493b042',1,'Criatura']]],
+  ['getraca',['getRaca',['../class_criatura.html#a4b95b6d2a892b7c04a8ed9295ae8521d',1,'Criatura']]],
+  ['getspecial',['getSpecial',['../class_alado.html#a1d68efdbb232eb56d660988c8ffc0324',1,'Alado::getSpecial()'],['../class_besta.html#a2c4c1ab277d8c05193b48b2a92cf58b6',1,'Besta::getSpecial()'],['../class_criatura.html#a0ea7405a935a7e01f386006c449467db',1,'Criatura::getSpecial()'],['../class_mago.html#a4e2253a4afc3740252d798898719a2e3',1,'Mago::getSpecial()']]],
+  ['gettamanho',['getTamanho',['../class_lista.html#a231a8fdac9a2c3de448032277ad90cb0',1,'Lista']]],
+  ['getusoupoder',['getUsouPoder',['../class_criatura.html#a5e563b8ba51abb7e2787f6bcd3048944',1,'Criatura']]],
+  ['getvida',['getVida',['../class_criatura.html#a1abb188371e8f70344d5a4aee418a33e',1,'Criatura']]]
+];
