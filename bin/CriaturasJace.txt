@@ -1,0 +1,12 @@
+mago
+xenagos
+200
+22
+8
+4
+alado
+shaco
+200
+30
+5
+3
