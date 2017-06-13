@@ -263,7 +263,7 @@ public:
                 recebe.open("CriaturasJogador.txt");
 
             if(recebe.is_open()){
-                do{
+                while(cont < quant){
                     cont++;
                     recebe >> raca;
                     recebe >> nome;
@@ -287,8 +287,7 @@ public:
                         inserir(mg);
                         //delete mg;
                     }
-
-                }while(cont < quant);
+                }
             }
         }
         recebe.close();
@@ -296,4 +295,3 @@ public:
 
 };
 #endif
-
