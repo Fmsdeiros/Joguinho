@@ -1,9 +1,6 @@
 var searchData=
 [
-  ['pause',['pause',['../batalha_8h.html#a41c3bded3ac6f1351f28de4b4c12dc45',1,'batalha.h']]],
-  ['primeiroacesso',['primeiroAcesso',['../primeiro_acesso_8cpp.html#aa646e32bfdfc4a64c63a0e2ec6d6c19d',1,'primeiroAcesso():&#160;primeiroAcesso.cpp'],['../primeiro_acesso_8h.html#aa646e32bfdfc4a64c63a0e2ec6d6c19d',1,'primeiroAcesso():&#160;primeiroAcesso.cpp']]],
-  ['primeiroacesso_2ecpp',['primeiroAcesso.cpp',['../primeiro_acesso_8cpp.html',1,'']]],
-  ['primeiroacesso_2eh',['primeiroAcesso.h',['../primeiro_acesso_8h.html',1,'']]],
-  ['primeiroturno',['primeiroTurno',['../batalha_8h.html#aa7a5fef0cdc00576e87c8e98325c75cd',1,'batalha.h']]],
-  ['prox',['prox',['../class_criatura.html#a4cdcb93cb472e3d10febff24503ea521',1,'Criatura']]]
+  ['obterprox',['obterProx',['../class_criatura.html#aae4295aca20e08ae7b6331d24ff6f8c0',1,'Criatura']]],
+  ['operator_3c_3c',['operator&lt;&lt;',['../class_alado.html#a61dd7bd8ba70924cb7af4cd5f93cd062',1,'Alado::operator&lt;&lt;()'],['../class_besta.html#ad4990c1e5a01f9ff22f2ea0c2a2854b9',1,'Besta::operator&lt;&lt;()'],['../class_mago.html#a6e92d5704af6c757f0035f654dcdcab1',1,'Mago::operator&lt;&lt;()'],['../alado_8cpp.html#a61dd7bd8ba70924cb7af4cd5f93cd062',1,'operator&lt;&lt;(ostream &amp;o, Alado const d):&#160;alado.cpp'],['../besta_8cpp.html#ad4990c1e5a01f9ff22f2ea0c2a2854b9',1,'operator&lt;&lt;(ostream &amp;o, Besta const d):&#160;besta.cpp'],['../mago_8cpp.html#a6e92d5704af6c757f0035f654dcdcab1',1,'operator&lt;&lt;(ostream &amp;o, Mago const d):&#160;mago.cpp']]],
+  ['operator_3d',['operator=',['../class_criatura.html#a64187db1a7a736dc5c4fbcce761278b2',1,'Criatura']]]
 ];

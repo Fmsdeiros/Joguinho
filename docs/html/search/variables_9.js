@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['usoupoder',['usouPoder',['../class_criatura.html#a6293dcc80703b945e94c2833b73c8901',1,'Criatura']]]
+  ['raca',['raca',['../class_criatura.html#a59de574ccec1bbdd8d10cc40f7b46ae5',1,'Criatura']]]
 ];

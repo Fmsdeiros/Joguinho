@@ -1,5 +1,22 @@
 var searchData=
 [
-  ['temporecarga',['tempoRecarga',['../batalha_8h.html#aa0b2e9adc5fba4696f9935d242a65c1e',1,'batalha.h']]],
-  ['turnoativo',['turnoAtivo',['../batalha_8h.html#a071ad2e1d7edc5774bbdfb717405ee59',1,'batalha.h']]]
+  ['setacerto',['setAcerto',['../class_criatura.html#a9dae005693ffb84cdcc52fb7c51242a5',1,'Criatura']]],
+  ['setagilidade',['setAgilidade',['../class_alado.html#a309c8d5721c4e0c727e76f06d0afdc7d',1,'Alado']]],
+  ['setarmor',['setArmor',['../class_criatura.html#a6a4b1257c2a242b2ab231d9731a41776',1,'Criatura']]],
+  ['setatacou',['setAtacou',['../class_criatura.html#a03e91ea88f8c497001290876fb1d8f34',1,'Criatura']]],
+  ['setcooldown',['setCooldown',['../class_criatura.html#ae96e801555c1b9e2a0cd29184a924097',1,'Criatura']]],
+  ['setcooldown2',['setCooldown2',['../class_criatura.html#a14a6e89f73662d020c11d5881dbc6bae',1,'Criatura']]],
+  ['setdefendeu',['setDefendeu',['../class_criatura.html#a00dbb6223d312cddd48f28c6d8456001',1,'Criatura']]],
+  ['setforca',['setForca',['../class_criatura.html#af00a721afa374b550e30e4c1ed787db8',1,'Criatura']]],
+  ['setfuria',['setFuria',['../class_besta.html#af1a2e1048793053e262caddf15ba87f4',1,'Besta']]],
+  ['sethabilidadeativa',['setHabilidadeAtiva',['../class_criatura.html#a41dead2c4836673fa77dbca5dc23c48e',1,'Criatura']]],
+  ['sethabilidadepassiva',['setHabilidadePassiva',['../class_criatura.html#a3aa4fd67975b38001a97d0900a163267',1,'Criatura']]],
+  ['setmr',['setMr',['../class_criatura.html#a160de906eb65628fad1d288e457dd16c',1,'Criatura']]],
+  ['setnome',['setNome',['../class_criatura.html#a06bbc6cdd4362fa3f431377bfb7190a0',1,'Criatura']]],
+  ['setpodermagico',['setPoderMagico',['../class_mago.html#a2c99f6d9b558e5898a0308b7b26d780f',1,'Mago']]],
+  ['setprox',['setProx',['../class_criatura.html#a2ceaefffec81b2374cc2bcec047eaaa3',1,'Criatura']]],
+  ['setraca',['setRaca',['../class_criatura.html#a46e4baa7650443aeb99377900a377be8',1,'Criatura']]],
+  ['settamanho',['setTamanho',['../class_lista.html#a8872ebf49b51033a8f9bf600ad256210',1,'Lista']]],
+  ['setusoupoder',['setUsouPoder',['../class_criatura.html#a34b1c2731abd9b7e4df446d53fd0939c',1,'Criatura']]],
+  ['setvida',['setVida',['../class_criatura.html#acbc1b8a00a330d575bb6522375356d83',1,'Criatura']]]
 ];

@@ -1,7 +1,9 @@
 var searchData=
 [
-  ['readme',['README',['../md__r_e_a_d_m_e.html',1,'']]],
-  ['raca',['raca',['../class_criatura.html#a59de574ccec1bbdd8d10cc40f7b46ae5',1,'Criatura']]],
-  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['remover',['remover',['../class_lista.html#ad426e2c6107ebe386b58f20295920126',1,'Lista']]]
+  ['pause',['pause',['../batalha_8h.html#a41c3bded3ac6f1351f28de4b4c12dc45',1,'batalha.h']]],
+  ['primeiroacesso',['primeiroAcesso',['../primeiro_acesso_8cpp.html#aa646e32bfdfc4a64c63a0e2ec6d6c19d',1,'primeiroAcesso():&#160;primeiroAcesso.cpp'],['../primeiro_acesso_8h.html#aa646e32bfdfc4a64c63a0e2ec6d6c19d',1,'primeiroAcesso():&#160;primeiroAcesso.cpp']]],
+  ['primeiroacesso_2ecpp',['primeiroAcesso.cpp',['../primeiro_acesso_8cpp.html',1,'']]],
+  ['primeiroacesso_2eh',['primeiroAcesso.h',['../primeiro_acesso_8h.html',1,'']]],
+  ['primeiroturno',['primeiroTurno',['../batalha_8h.html#aa7a5fef0cdc00576e87c8e98325c75cd',1,'batalha.h']]],
+  ['prox',['prox',['../class_criatura.html#a4cdcb93cb472e3d10febff24503ea521',1,'Criatura']]]
 ];

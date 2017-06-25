@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['prox',['prox',['../class_criatura.html#a4cdcb93cb472e3d10febff24503ea521',1,'Criatura']]]
+  ['nome',['nome',['../class_criatura.html#a2ab13dcb9aff3e204184732d0e9bb871',1,'Criatura']]]
 ];

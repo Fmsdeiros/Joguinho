@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['forca',['forca',['../class_criatura.html#a6fa15bb0dd000587fc2594252579fd8b',1,'Criatura']]]
+  ['defendeu',['defendeu',['../class_criatura.html#af69c72541c650ba19124cae1db3a8469',1,'Criatura']]]
 ];

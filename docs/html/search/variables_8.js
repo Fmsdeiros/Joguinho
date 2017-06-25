@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['raca',['raca',['../class_criatura.html#a59de574ccec1bbdd8d10cc40f7b46ae5',1,'Criatura']]]
+  ['prox',['prox',['../class_criatura.html#a4cdcb93cb472e3d10febff24503ea521',1,'Criatura']]]
 ];
