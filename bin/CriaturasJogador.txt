@@ -7,7 +7,7 @@ servical
 mago
 bontu
 200
-15
+25
 3
 5
 besta
