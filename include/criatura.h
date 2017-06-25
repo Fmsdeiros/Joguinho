@@ -30,7 +30,8 @@ class Criatura{
 			acerto,
 			cooldown,
 			cooldown2;
-			
+		
+		int backup[4] = {vida,forca,armor,mr};
 
 		bool atacou,
 			 defendeu,
@@ -42,6 +43,7 @@ class Criatura{
 
 	public:
 		Criatura();
+		Criatura(string,string,int,int,int,int);
 		Criatura(const Criatura&);
 		//Sobrecarga do operador =
         void operator = (Criatura nova);
@@ -105,15 +107,11 @@ class Criatura{
 		//Retorna se a segunda habilidade da criatura esta ativa ou nao
 		bool getHabilidadePassiva();
 
-
         virtual void getSpecial();
         int descobrePoder();
 
-        //funcao responsavel por comparar as racas das criaturas
-		int comparaRaca(string);
-		//funcao responsavel por retornar o dano de um golge
-		int Bater(int,string);
-
+        //Funcao responsavel por resetar a criatura
+        void reset();
 		//Funcao responsavel por atualizar o valor de prox
 		void setProx(Criatura* l);
 		//Funcao responsavel por retornar o valor de prox

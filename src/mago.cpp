@@ -40,6 +40,10 @@ Mago::Mago(const Mago& Nova){
 */
 Mago::~Mago(){}
 
+
+int Mago::getPoderMagico(){return this->poderMagico;}
+void Mago::setPoderMagico(int poderMagico){this->poderMagico = poderMagico;}
+
 /**
 *   imprime os poderes da criatura para o jogador
 */

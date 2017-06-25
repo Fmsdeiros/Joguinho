@@ -15,6 +15,15 @@
     Criatura::Criatura(){
         prox= NULL;
     }
+    Criatura::Criatura(string nome, string raca, int vida, int forca, int armor, int mr){
+        this->nome = nome;
+        this->raca = raca;
+        this->vida = vida;
+        this->forca = forca;
+        this->armor = armor;
+        this->mr = mr;
+        prox = NULL;
+    }
     Criatura::Criatura(const Criatura& Nova){
         this->nome = Nova.nome;
         this->raca = Nova.raca;
@@ -122,6 +131,17 @@
     */
     void Criatura::setRaca(string raca){this->raca = raca;}
 
+
+    /**
+    *
+    *
+    */
+    void Criatura::reset(){
+        this->vida = this->backup[0];
+        this->forca = this->backup[1];
+        this->armor = this->backup[2];
+        this->mr = this->backup[3];
+    }
 
     void Criatura::getSpecial(){}
     

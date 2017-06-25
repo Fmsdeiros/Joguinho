@@ -38,6 +38,8 @@ Alado::Alado(const Alado& Nova){
 */
 Alado::~Alado(){}
 
+int Alado::getAgilidade(){return this->agilidade;}
+void Alado::setAgilidade(int agilidade){this->agilidade = agilidade;}
 /**
 *   imprime os poderes da criatura para o jogador
 */

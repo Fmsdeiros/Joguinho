@@ -20,6 +20,7 @@ int menuPrincipal(){
 	cout << "Joguinho Hardcore mesmo";
 	cout << "\n\n\n";
 	cout << "(1) - Iniciar jogo." << endl;
+	cout << "(2) - Salao de saruman." << endl;
 	cout << "(9) - Creditos." << endl;
 	cout << "(0) - Sair do jogo." << endl;
 	cout << "Escolha: ";

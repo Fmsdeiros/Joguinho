@@ -10,6 +10,8 @@
 #define ALADO_H
 
 class Alado : public Criatura{
+	private:
+		int agilidade;
 	public:
 
 		//construtor da classe
@@ -17,6 +19,9 @@ class Alado : public Criatura{
 		Alado(string ,string ,int ,int ,int ,int);
 		Alado(const Alado&);
 		~Alado();
+
+		int getAgilidade();
+		void setAgilidade(int);
 
 		//Imprime na tela o poder da criatura
 		void getSpecial();

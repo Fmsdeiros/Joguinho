@@ -166,6 +166,11 @@ void turnoAtivo(T* primario, T* secundario){
                 secundario->setVida( secundario->getVida() - dano);
             }
             cout << primario->getNome() << " causou " << dano << " de dano em seu ataque." << endl;
+
+            if(primario->getRaca() == "alado"){
+                //Alado* ald = primario;
+                //ald->setAgilidade( ald->getAgilidade() + 1 );
+            }
         }
 
         //condicao para o caso de a criatura inmiga ter errado o golpe
@@ -389,15 +394,15 @@ int arena(T* primario, T* secundario){
         if(primario->getVida() <= 0){
             cout << "Sua criatura morreu!" << endl;
             lutando = false;
-            primario->setVida(200);
-            secundario->setVida(200);
+            primario->reset();
+            secundario->reset();
             return 1;
         }
         if(secundario->getVida() <= 0){
             cout << "A criatura inimiga morreu!" << endl;
             lutando = false;
-            primario->setVida(200);
-            secundario->setVida(200);
+            primario->reset();
+            secundario->reset();
             return 2;
         }
     }

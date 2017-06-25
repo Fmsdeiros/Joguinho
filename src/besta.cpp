@@ -37,6 +37,10 @@ Besta::Besta(const Besta& Nova){
 */
 Besta::~Besta(){}
 
+
+int Besta::getFuria(){return this->furia;}
+void Besta::setFuria(int furia){this->furia = furia;}
+
 /**
 *   imprime os poderes da criatura para o jogador
 */

@@ -10,6 +10,8 @@
 #define BESTA_H
 
 class Besta : public Criatura{
+	private:
+		int furia;
 	public:
 
 		//construtor da classe
@@ -20,6 +22,9 @@ class Besta : public Criatura{
 
 		//Imprime na tela o poder da criatura
 		void getSpecial();
+
+		int getFuria();
+		void setFuria(int);
 
 		//Sobrecarga do operador <<
 		friend ostream& operator << (ostream &o, Besta const d);

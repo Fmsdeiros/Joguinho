@@ -9,6 +9,8 @@
 #define MAGO_H
 
 class Mago : public Criatura{
+	private:
+		int poderMagico;
 	public:
 
 		//construtor da classe
@@ -16,6 +18,9 @@ class Mago : public Criatura{
 		Mago(string ,string ,int ,int ,int ,int);
 		Mago(const Mago&);
         ~Mago();
+
+        int getPoderMagico();
+       	void setPoderMagico(int);
 
 		//Imprime na tela o poder da criatura
 		void getSpecial();
