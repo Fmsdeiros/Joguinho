@@ -183,7 +183,7 @@ int main(){
                 cout << "\t\t     Direcao de arte: Felipe Medeiros" << endl;
                 cout << "\t\t   Audio e iluminacao: Felipe Medeiros" << endl;
                 cout << "\t  Refazer a lista no ultimo dia de projeto: Felipe Medeiros" << endl;
-                cout << "\t  Agradecimentos especiais: Joseh augusto e Professor Fofinho" << endl;
+                cout << "  Agradecimentos especiais: Joseh augusto, Luciano Eduardo e Professor Fofinho" << endl;
                 cout << "\n\t\t\tNo aguardo da bolsa" << endl;
                 pause;
             break;
